@@ -1,8 +1,6 @@
 # AWS-for-Beginners-
 Life in the cloud ☁️
 
-# AWS-for-Beginners
-
 ---
 
 # IT FUNDAMENTALS 
@@ -87,4 +85,26 @@ then store information in the database.
 
 ---
 
-changed
+## Storage - Block vs File vs Object
+
+---
+
+There are 3 key types of storage systems
+1. **Block Base Storage System:** Examples, hard disk drives or solid state drives - And what that means is your operating system, Windows or Linux, actually sees a hard disk drive, so it sees a drive on which you can create a volume and then you can partition that volume.
+
+For example, there could be a 1000 gigabytes volume and we could then partition that so we could
+
+say, I want to create a C drive with 800 gigabytes and a D drive with 200 gigabytes.
+2. **Network Attached Storage:** connecting using a network interface card, you're going over a network and then you're accessing a network attached storage server. **Example:** network attached drives and that could be a corporate shared directory. The operating system sees a file system that is mapped to a local drive letter. A file based storage system.
+3. **Object Storage Systems:** user might upload an object using a web browser. 
+So rather than using, for instance, a file management system like Windows Explorer, they're using
+
+a web browser and uploading an object to a container on the internet somewhere.
+
+Uses the HTTP protocol Uses REST API
+
+So objects can be files, videos, images, pretty much anything that you any kind of file type that you may want to upload.
+
+---
+
+
