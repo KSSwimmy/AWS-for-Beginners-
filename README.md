@@ -107,4 +107,62 @@ So objects can be files, videos, images, pretty much anything that you any kind 
 
 ---
 
+## IP Addresses and DNS 
+
+### What is and IPv4 (IP version 4) address? 
+
+IP Addresses are address that computers use to communicate with each other
+
+If there's a computer somewhere on a network and that computer wants to connect to the web server, they might use a browser. 
+
+When the user enters the url (uniform resource locater which is also a DNS address)A DNS server is used to map the domain name, such as Amazon.com the IP address that's associated with the server.
+
+#### What happen when I enter a domain name into the browser?
+
+The domain name communicates to the DNS server. Once it communicates and knows what the IP address is it can then communicate directly with the web server using the IP address.
+
+### Structure of an IPv4 Address
+
+`192.168.0.1`
+
+The dots in between the numbers stands for **Dotted Decimal Notation** and each part of the address is a _binary octet_.
+
+#### What is a binary octet mean? 
+
+Octet means that eight, eight bits.
+
+There are eight bits which are either a one or zero.
+
+From left to right they have different values.
+
+Now the most significant bit on the left has a value of 128, and the least significant bit on the right
+
+has a value of one.
+
+The **subnet mask** is used to define the network and the host ID. 
+
+#### Networks and hosts
+
+On a Network they will have different host IDs and the same Network ID.
+
+##### See visual example in the slide
+
+#### Private IP Addresses 
+
+There are private IP addresses that aren't accessible over the internet. 
+
+---
+### Bandwidth and Latency
+
+**Bandwidth** is the rate of data transfer for a fixed period of time, measured in gigabits per second (Gbps).
+
+The larger the bandwidth the thicker the pipe. It's the width of the communication band.
+
+Latency is the amount of time it takes to send the data from one point to another, and it's measured. Either in microseconds or milliseconds.
+
+Latency is essentially the delay. How long is it going to take to send some data from the left here to the computer on the right here.
+
+The quantity of data that you actually have in the channel, that is the bandwidth.
+
+We think about distance being the biggest factor in terms of latency. 
 
