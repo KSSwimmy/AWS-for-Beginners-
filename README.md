@@ -166,3 +166,28 @@ The quantity of data that you actually have in the channel, that is the bandwidt
 
 We think about distance being the biggest factor in terms of latency. 
 
+---
+
+### Networking - Routers, Switches, and Firewalls
+
+A **switch** is often known as a layer two device. It just has some intelligence on how to send communications between computers within a individual network.
+
+***So how can a computer in the subnet on the right hand side here connect to the subnet on the left or vice versa?***
+
+Well, for that you need a **router.**
+
+A router is known as a layer free device and that simply means that it's able to understand network numbers.
+
+**Firewalls** are used for security and we can place them in various different places in our network.
+
+Applying security at various different layers in our network is a security best practice. (See last of Firewall Slides for example {Layer table})
+
+---
+
+### API
+
+
+
+
+
+
