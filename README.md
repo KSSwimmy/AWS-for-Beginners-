@@ -180,13 +180,35 @@ A router is known as a layer free device and that simply means that it's able to
 
 **Firewalls** are used for security and we can place them in various different places in our network.
 
-Applying security at various different layers in our network is a security best practice. (See last of Firewall Slides for example {Layer table})
+Applying security at various different layers in our network is a security best practice. (See slide 38 for example {Layer table})
 
 ---
 
-### API
+### API (Application Programming Interface)
 
+**So what is an API?**
 
+API is often known as a RESTful API and REST stands for Representational State Transfer and it uses the HTTP protocol, the very same protocol we use for browsing the internet from a web browser on our computer.
+
+APIs can then connect to various backend services like websites and application servers and databases.
+
+---
+
+# Section 4 Cloud Computing Concepts 
+
+### Legacy IT/Traditional  
+
+Data center building
+• Data center security
+• Physical IT hardware
+• Software licensing costs
+• Maintenance contracts
+• Power
+• Internet connectivity
+• Staff wages (design, build,
+operations, maintenance) 
+
+---
 
 
 
