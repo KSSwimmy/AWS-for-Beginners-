@@ -210,6 +210,18 @@ operations, maintenance)
 
 ---
 
+### What is Cloud Computing? Well-known examples 
+
+1. Gmail
+2. Dropbox 
+3. Sealsforce 
+
+- You don't own or manage the infrastructure on which the service runs.
+- Cloud services are offered on a subscription/consumption model
+-  Service scales as demand changes
+
+---
+
 
 
 
